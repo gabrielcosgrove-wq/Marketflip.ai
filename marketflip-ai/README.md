@@ -86,7 +86,7 @@ Dark-mode-first, inspired by Linear and Apple's product marketing pages:
 - All interactive states respect `prefers-reduced-motion`, and focus rings are visible for keyboard navigation.
 
 ## Pages
-
+ 
 - **Home** — hero with live search, an example "deal reveal" card, trending deals, category grid, how-it-works.
 - **Search** — query + category filtering, AI-scored results sorted by Deal Score.
 - **Reseller** — sort by profit/ROI/newest/easiest resale, min profit + max buy price filters, demand/risk badges.
